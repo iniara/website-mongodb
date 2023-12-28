@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "658bfbf14de773b5c50f2344"
+  },
+  "nama_buku": "Laut Bercerita",
+  "penulis": "Leila S. Chudori",
+  "tahun_terbit": "2017",
+  "penerbit": "KPG (Kepustakaan Populer Gramedia)",
+  "kategori": "Fiksi",
+  "jumlah_halaman": "379"
+},
+{
+  "_id": {
+    "$oid": "658cc40fe9e868bc5d08b47e"
+  },
+  "nama_buku": "Laskar Pelangi",
+  "penulis": "Andrea Hirata",
+  "tahun_terbit": "2005",
+  "penerbit": "Bentang Pustaka",
+  "kategori": "Fiksi",
+  "jumlah_halaman": "534"
+},
+{
+  "_id": {
+    "$oid": "658cc751e9e868bc5d08b481"
+  },
+  "nama_buku": "Dilan: Dia adalah Dilanku Tahun 1990",
+  "penulis": "Pidi Baiq",
+  "tahun_terbit": "2015",
+  "penerbit": "Mizan Publishing",
+  "kategori": "Fiksi",
+  "jumlah_halaman": "348"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "658cb816e9e868bc5d08b47a"
+  },
+  "nama": "Budi",
+  "jenis_kelamin": "Laki-laki",
+  "tahun_bergabung": "2019",
+  "pekerjaan": "Mahasiswa",
+  "status": "Aktif",
+  "riwayat": "20 Kali"
+},
+{
+  "_id": {
+    "$oid": "658ccb4ae9e868bc5d08b482"
+  },
+  "nama": "Ayu",
+  "jenis_kelamin": "Perempuan",
+  "tahun_bergabung": "2022",
+  "pekerjaan": "Wirausaha",
+  "status": "Aktif",
+  "riwayat": "5 Kali"
+}]
